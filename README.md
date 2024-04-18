@@ -37,22 +37,21 @@ Requisitos funcionais
 
 Para Sommerville (2007), requisitos funcionais são as descrições de serviços que delineiam o que o sistema deve prover e descrever o comportamento desejado em situações diversas. Eles estão relacionados com a maneira com que o sistema deve operar, assim como a interação com o usuário. A seguir, são apresentados, na Tabela 1, os requisitos funcionais da aplicação proposta e na Tabela 2 o detalhamento de tais requisitos.
 
-![23](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/e1d07d4c-f1e3-4524-8347-4819600dcb19)
+![23](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/819eb636-a93c-4d40-b6ad-d46f2d626116)
 
-![32](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/43dbf0f6-9f0f-45d3-9e17-c6cdaec5d631)
-
+![32](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/bff622bf-fcb5-408f-bd0e-a3b72f567466)
 
 Requisitos não-funcionais
 
 Segundo Sommerville (2007), são aqueles que não estão especificamente relacionados com as funcionalidades do sistema, sendo restrições às funcionalidades disponibilizadas pelo sistema. Os requisitos não-funcionais aplicam-se, frequentemente, ao sistema como um todo; dita como o sistema deve ser construído. Abaixo, na Tabela 3, são apresentados os requisitos não-funcionais e suas descrições, contendo os seus tipos.
 
-![27](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/bd22ce23-a2f7-446d-90ca-bef44976bce1)
+![27](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/eeded902-283d-4952-90c2-928103ed2e96)
 
 Diagrama de casos de uso
 
 Os diagramas de casos de uso são uma ferramenta valiosa para modelar os requisitos funcionais de um sistema e facilitar a comunicação entre os stakeholders do projeto. Sua utilização contribui para o desenvolvimento de sistemas mais robustos, confiáveis e que atendem às necessidades dos usuários. A Imagem 1 apresenta a modelagem do Diagrama de Casos de Uso do sistema idealizado.
 
-![28](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/c20e4087-c174-45b9-8a1b-585f717b8bdd)
+![28](https://github.com/vanderson-lima01/ProjetoIntegradorIII/assets/166770851/395a4c29-97ff-41bd-8799-288b64488caa)
 
 ## CONCLUSÃO
 
