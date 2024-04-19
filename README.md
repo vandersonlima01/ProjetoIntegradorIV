@@ -21,7 +21,7 @@ Há vários módulos que podem complementam e aprimoram as operações das organ
 
 Alternativa de solução
 
-Para superar esses desafios e promover a eficiência operacional, propõe-se o desenvolvimento de um sistema desktop abrangente para gerenciamento de estoques. Este software terá a capacidade de controlar a entrada e saída de produtos e fornecer uma visão detalhada do status atual do estoque. A solução proposta não apenas substituirá os métodos manuais suscetíveis a erros, mas também permitirá um controle mais preciso e rápido do estoque. 
+Para superar esses desafios e promover a eficiência operacional, propõe-se o desenvolvimento de um sistema web para gerenciamento de estoques. Este software terá a capacidade de controlar a entrada e saída de produtos e fornecer uma visão detalhada do status atual do estoque. A solução proposta não apenas substituirá os métodos manuais suscetíveis a erros, mas também permitirá um controle mais preciso e rápido do estoque. 
 
 Stakeholders
 
